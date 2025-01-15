@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="CopyLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/poi-ooxml-schemas-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
